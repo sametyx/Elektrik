@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Samet
+ *
+ */
+module Elektrik {
+}
